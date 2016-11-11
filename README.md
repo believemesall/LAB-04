@@ -30,10 +30,11 @@
 
 ![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P3.png)
  
- * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
+ * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง
+ <img src = "https://github.com/believemesall/LAB-04/blob/master/LAB4.PNG">
 
 ####บันทึกผลการทดลอง
-<hr>
+<hr>มันสามารถส่งค่าได้
 <hr>
 <hr>
 <hr>
@@ -45,6 +46,7 @@
 
  * สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
  * การรันแล้วทำให้หน้าจอ console ยังคงแสดงผลค้างอยู่นั้น ให้เลือกเมนู Debug -> Start Without Debugging (Ctrl+F5) มิฉะนั้น หน้าจอ console จะหายไปอย่างรวดเร็ว
+  <img src = "https://github.com/believemesall/LAB-04/blob/master/LAB4.1.PNG">
 <hr>
 <hr>
 <hr>
@@ -55,7 +57,7 @@
 ### คำถาม 4.1 
 
 ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร  จงอธิบาย
-<hr>
+ไม่เป็นเพราะ คิดว่าจะเป็นแค่HelloWorld จะไม่ติดกัน
 <hr>
 <hr>
 <hr>
@@ -69,9 +71,9 @@
 ![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P5.png)
 
  * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
-
+<img src = "https://github.com/believemesall/LAB-04/blob/master/LAB4.2.PNG">
 บันทึกผลที่ได้จากการรันโปรแกรม
-<hr>
+เปลี่ยนบรรดทัดหากใส่writelineไป
 <hr>
 <hr>
 <hr>
@@ -82,7 +84,8 @@
 ![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P6.png)
 
  * สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
-<hr>
+ <img src = "https://github.com/believemesall/LAB-04/blob/master/LAB4.3.PNG">
+เปลี่ยนบรรดทัดหากใส่writelineไป
 <hr>
 <hr>
 <hr>
@@ -91,7 +94,7 @@
 ###คำถาม 4.2
 
 ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร  จงอธิบาย
-<hr>
+เป็น
 <hr>
 <hr>
 <hr>
@@ -100,7 +103,7 @@
 ### คำถาม 4.3 
 
 จงอธิบายความแตกต่างระหว่างคำสั่ง Console.Write() และ Console.WriteLine()
-<hr>
+แตกต่างเพราะว่า write จะเขียติดๆกันไปแต่ writeline จะเปลี่ยนบรรทัดไปเรื่อยๆ
 <hr>
 <hr>
 <hr>
@@ -108,7 +111,7 @@
 
 ##สรุปผลการทดลอง
 
-<hr>
+write จะเป็นคำสั่งที่ใช้เขียนข้อมูลติดๆกันไป แค้ writeline จะเปลี่ยนบรรทัดเมื่อมีคำสั่ง
 <hr>
 <hr>
 <hr>
